@@ -1,0 +1,4 @@
+name: AverisGeceGorus
+version: 1.0.0
+main: com.reyevdev.averisgecegorus.AverisGeceGorus
+api-version: '1.21'
